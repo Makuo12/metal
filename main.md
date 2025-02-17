@@ -36,7 +36,7 @@ We are actively working on expanding our solution to **other African countries**
 
 Experience the power of Metal's contactless payments—fast, secure, and cost-effective. 
 
-**Contact Us**: [info@metal.com](mailto:info@metal.com)
+**Contact Us**: [uwau2544@gmail.com](mailto:uwau2544@gmail.com)
 
 ---
 
