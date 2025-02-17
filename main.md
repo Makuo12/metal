@@ -32,11 +32,11 @@ We are actively working on expanding our solution to **other African countries**
 
 ---
 
-## Join the Revolution
+## Contact
 
-Experience the power of Metal's contactless payments—fast, secure, and cost-effective. 
-
-**Contact Us**: [uwau2544@gmail.com](mailto:uwau2544@gmail.com)
+Mail: [uwau2544@gmail.com](mailto:uwau2544@gmail.com)
+Phone: +2348160044492
+Address: NO 86A Kubu rat okoya LINE, ELEGANZA GARDENS, LEKKI LAGOS
 
 ---
 

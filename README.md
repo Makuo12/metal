@@ -48,7 +48,11 @@ Our goal is to extend our solution to other African countries with established *
 
 Metal is transforming the way we make payments. Experience fast, secure, and affordable contactless payments that can help businesses grow and provide a more convenient experience for consumers.  
 
-**Contact Us**: [uwau2544@gmail.com](mailto:uwau2544@gmail.com)
+## Contact
+
+Mail: [uwau2544@gmail.com](mailto:uwau2544@gmail.com)
+Phone: +2348160044492
+Address: NO 86A Kubu rat okoya LINE, ELEGANZA GARDENS, LEKKI LAGOS
 
 ---
 
