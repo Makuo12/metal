@@ -56,4 +56,4 @@ Metal is transforming the way we make payments. Experience fast, secure, and aff
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-[Learn More](https://makuo12.github.io/Freenove-esp32-rust/main.html)
+[Learn More](https://makuo12.github.io/metal/main.html)
