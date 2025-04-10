@@ -1,6 +1,6 @@
 # Metal - Contactless Payment Solutions
 
-**Metal** is an innovative payment solution designed to make contactless transactions fast, secure, and affordable. By leveraging **RISC-V chips** and advanced technologies, we eliminate the need for expensive POS terminals and make seamless payments accessible to everyone.
+**Metal** is an innovative payment solution designed to make transactions fast, secure, and affordable. By leveraging **RISC-V chips**, NIBSS Instant Payment and advanced transmission technologies, we eliminate the need for expensive POS terminals and make seamless payments accessible to everyone.
 
 ---
 
@@ -11,7 +11,6 @@
   - [Low Transaction Fees](#low-transaction-fees)
   - [Global Reach](#global-reach)
   - [Advanced Security](#advanced-security)
-  - [Future Expansion](#future-expansion)
 - [Join the Revolution](#join-the-revolution)
 - [Contact](#contact)
 - [License](#license)
@@ -20,7 +19,7 @@
 
 ## What We Do
 
-Metal offers a cutting-edge, contactless payment solution via mobile banking applications. By integrating **RISC-V chips** and **satellite modules**, we ensure that mobile devices can process payments with unparalleled speed, security, and cost-efficiency.
+Metal provides an easy, low-cost, and secure payment solution using smart devices and cards. No more expensive POS terminals or lengthy transfer processes—just a fast and reliable way to complete transactions.
 
 ---
 
@@ -28,7 +27,7 @@ Metal offers a cutting-edge, contactless payment solution via mobile banking app
 
 ### Low Transaction Fees
 
-Metal enables merchants to process payments at just **₦45** per transaction, significantly lower than traditional POS systems, which typically charge ₦100 to ₦200. This cost-saving approach allows businesses of all sizes to thrive without worrying about high transaction fees.
+Our devices process payments at a fraction of the cost of traditional POS terminals because it is based on NIBSS Instant payment technology. Transaction fees are as low as **₦20**, reducing the burden on both small and large businesses. This enables greater profitability and financial inclusion for merchants.
 
 ### Global Reach
 
@@ -36,17 +35,13 @@ Thanks to the integration of **satellite modules** and **network SIM modules**, 
 
 ### Advanced Security
 
-Security is at the core of Metal. We employ **AES encryption** for every transaction, ensuring that both merchant and customer data is fully protected against fraud, making every transaction secure and trustworthy.
-
-### Future Expansion
-
-Our goal is to extend our solution to other African countries with established **instant payment infrastructures**, providing access to secure and low-cost contactless payments across the continent.
+Security is a top priority for us. Our solution employs various encryption algorithms to safeguard transactions, ensuring that both merchants and customers enjoy the highest level of protection against fraud.
 
 ---
 
 ## Join the Revolution
 
-Metal is transforming the way we make payments. Experience fast, secure, and affordable contactless payments that can help businesses grow and provide a more convenient experience for consumers.  
+Metal is transforming the way we make payments. Experience fast, secure, and affordable payments that can help businesses grow and provide a more convenient experience for consumers.  
 
 ## Contact
 
